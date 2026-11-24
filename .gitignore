@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+*.backup.*
+*.tmp.*
+nginx/active-slot
